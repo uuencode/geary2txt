@@ -17,13 +17,10 @@ python or php with pdo_sqlite extension
 
 ## HOW TO INSTALL
 
-Download and save 'geary2txt.py' OR 'geary2txt.php' AS 'geary2txt' and make it executable
-
-Set 'geary_db_file' and 'dir_to_export' at the beginning of geary2txt where:
-
-geary_db_file - geary database file e.g. '/home/USER/.local/share/geary/EMAIL@EMAIL.COM/geary.db'
-
-dir_to_export - a folder to save messages e.g. '/home/USER/backup_emails' - no trailing slash
+- Download and save 'geary2txt.py' OR 'geary2txt.php' AS 'geary2txt' and make it executable
+- Set 'geary_db_file' and 'dir_to_export' at the beginning of geary2txt where:
+- geary_db_file - geary database file e.g. '/home/USER/.local/share/geary/EMAIL@EMAIL.COM/geary.db'
+- dir_to_export - a folder to save messages e.g. '/home/USER/backup_emails' - no trailing slash
 
 ## HOW TO USE
 
